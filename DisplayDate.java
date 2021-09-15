@@ -1,4 +1,4 @@
-package com.xworkz.controlStaments;
+package com.xworkz.method;
 import java.util.Date;
 
 public class DisplayDate {
